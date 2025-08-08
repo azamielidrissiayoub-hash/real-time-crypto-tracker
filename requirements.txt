@@ -1,0 +1,5 @@
+confluent_kafka
+requests
+pandas
+pyspark
+matplotlib
