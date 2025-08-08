@@ -125,5 +125,5 @@ This plots the real-time BTC price from the CSV output.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name]  
-GitHub: https://github.com/yourusername
+Made with ❤️ by AYOUB AZAMI EL IDRISSI
+GitHub: https://github.com/azamielidrissiayoub-hash
