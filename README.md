@@ -110,7 +110,7 @@ This plots the real-time BTC price from the CSV output.
 
 ## 📊 Sample Output (Screenshot)
 
-> *Insert chart image here if available*
+> ![alt text](image.png)
 
 ---
 
